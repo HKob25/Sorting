@@ -147,7 +147,7 @@ merge = function(i, ssize, n) {
 	let z=ceil(m);
 	while(x<m || z<y)
 	{
-		if(arr[x] < arr[])
+		if(arr[x] < arr[ ])
 	}
 }*/
 
